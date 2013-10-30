@@ -1,0 +1,16 @@
+{
+  "name": "selenium-test",
+  "version": "0.0.2",
+  "private": true,
+  "dependencies": {
+    "express": "2.5.8",
+    "jade": ">= 0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "webdriverjs": "*",
+    "coffee-script": "~1.6.3",
+    "chai-jquery": "~1.1.2"
+  }
+}
